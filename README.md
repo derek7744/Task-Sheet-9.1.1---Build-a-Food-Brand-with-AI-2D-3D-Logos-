@@ -27,6 +27,15 @@ This task sheet accompanies **Lecture 9: AI Image Processing, Generation & Promp
 3. **Craft the 3D Logo Prompt:** Describe depth, bevels, surface materials, studio lighting, and negative terms that block flat 2D or low-quality outputs.
 4. **Generate & Refine:** Test your prompts, make targeted adjustments one detail at a time, and insert your prompts, images, and reflection into the worksheet.
 
+## Submission Instructions
+
+1. Submit your completed Task Sheet 9.1.1 by creating an Issue in the class repository and uploading your file(s):
+2. Open the Issues tab in the repository and click New issue.
+3. Set the issue title using the format: [Task Sheet 9.1.1] <Your Name> - <Brand Name>.
+4. In the issue description, include your brand name, product summary, and short reflection (or paste your completed summary).
+5. Upload your completed task sheet file (and/or generated 2D and 3D logo image files) by dragging and dropping the file(s) into the issue box or using the attachment/upload button.
+6. Click Submit new issue to complete your submission.
+
 ## Grading Breakdown (100 Points)
 
 * **Food Brand, Description & Concept:** 25 pts
